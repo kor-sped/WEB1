@@ -1,30 +1,30 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+## 이건 테스트
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
+깃허브 블로그를 임시로 운영하려고 한다. 에디터를 찾다보니 typora 에디터가 마크다운에 최적화 되어 있다고 한다.
 
 
 
-Credits:
+- 먼저 제외
+- 둘째
+  - 그리고 언제나 우리가
+  - 뭘
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+1. 안녕
+2. 히
+3. 계세요
+   - !
+   - ?
+
+<img src="/Users/nru/Dropbox/바탕화면 사진(차 한잔).JPG" alt="바탕화면 사진(차 한잔)" style="zoom:67%;" />
+
+
+
+| 종 목 | 이름 | 날씨 | 요일 |
+| :---: | :--: | :--: | :--: |
+|       |      |      |      |
+|       |      |      |      |
+|       |      |      |      |
+
